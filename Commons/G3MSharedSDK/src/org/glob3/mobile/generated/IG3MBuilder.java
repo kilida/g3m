@@ -382,13 +382,10 @@ public abstract class IG3MBuilder
     _cameraActivityListener = null;
     _planet = null;
     _cameraConstraints = null;
-    _cameraConstraints = null;
     _cameraRenderer = null;
-    _renderers = null;
     _renderers = null;
     _busyRenderer = null;
     _initializationTask = null;
-    _periodicalTasks = null;
     _periodicalTasks = null;
     _userData = null;
   
